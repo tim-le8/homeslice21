@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @homeslice21
-- 👀 I’m interested in penetration testing.
-- 🌱 I’m currently learning the Offensive Pentesting path on TryHackMe to build my skills before I take the OSCP.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in website development.
+- 🌱 I’m currently doing The Odin Project to build my skills and portfolio.
+- 💞️ I’m looking to collaborate on a full-stack project.
 - 📫 You can reach me on; 
   - email via tim.le21@protonmail.com
   - LinkedIn: https://www.linkedin.com/in/tim-le-19504915b/
